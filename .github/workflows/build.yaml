@@ -3,7 +3,7 @@ name: build
 on:
   push:
     branches:
-      - develop_st
+      - develop_st/2.13.x
       - release_st/*
       - master_st
 
