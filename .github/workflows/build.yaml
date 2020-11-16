@@ -9,7 +9,7 @@ on:
 
 env:
   DOCKERHUB_ORGANIZATION: scanterra
-  DOCKERHUB_REPO_NAME: data-docker
+  DOCKERHUB_REPO_NAME: geoserver_data
 
 jobs:
   build-job:
